@@ -23,5 +23,5 @@ int main() {
 	fclose(output);
 	
 	return 0;
-}
+
 
